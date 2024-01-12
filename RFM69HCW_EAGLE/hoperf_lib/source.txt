@@ -1,0 +1,1 @@
+https://github.com/mattbrejza/eagle-lib/blob/master/hoperf.lbr
